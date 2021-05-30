@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="message_hint">Customer name</string>
+    <string name="heading_toppings_text_view">toppings</string>
+    <string name="whipped_cream_topping_check_box">Add whipped cream :P</string>
+    <string name="chocolate_topping_check_box">Add some chocolate ;)</string>
     <string name="heading_quantity_text_view">quantity</string>
     <string name="quantity_text_view">0</string>
-    <string name="heading_price_text_view">price</string>
+    <string name="order_summary_text_view">order summary</string>
     <string name="decrement_price_button">-</string>
-    <string name="price_text_view">$0.00</string>
     <string name="increment_price_button">+</string>
     <string name="order_button">order</string>
+    <string name="сhoose_email_app">Choose Email App</string>
 </resources>
