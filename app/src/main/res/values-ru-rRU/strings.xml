@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_customer_name_edit_text">Имя посетителя</string>
+    <string name="heading_toppings_text_view">топпинги</string>
+    <string name="topping_whipped_cream_check_box">добавить взбитые сливки :P</string>
+    <string name="topping_chocolate_check_box">добавить шоколад ;)</string>
+    <string name="heading_quantity_text_view">количество кофе</string>
+    <string name="send_an_order_button">отправить заказ</string>
+</resources>
